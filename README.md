@@ -48,7 +48,7 @@ To run this app on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/sreenija1007/CV_project.git
+    git clone https://github.com/sreenija1007/VisionScope.git
     cd CV_project
     ```
 
@@ -93,7 +93,7 @@ This application is optimized for **Streamlit Community Cloud**. If you are depl
 ## 📂 Project Structure
 
 ```text
-CV_Portfolio/
+VisionScope/
 ├── app.py                 # Main application entry point
 ├── requirements.txt       # Python dependencies
 ├── packages.txt           # System-level dependencies (Linux)
